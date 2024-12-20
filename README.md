@@ -1,6 +1,6 @@
 # nasa_horizons_api
 
-This project was used to fetch data from the JPL Horizons systems, for use in other projects such as (https://github.com/dpaetsch/CosmicClicker/blob/main/README.md)[Cosmic Clicker].
+This project was used to fetch data from the JPL Horizons systems, for use in other projects such as [Cosmic Clicker](https://github.com/dpaetsch/CosmicClicker/blob/main/README.md). 
 
 ## Modes of Use:
 There are two ways of using this:
